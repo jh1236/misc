@@ -14,5 +14,6 @@
     "saint": 0,
     "bless": 0,
     "lord": 0,
-    "christ": 0
+    "christ": 0,
+    "spaghetti":0
 }
