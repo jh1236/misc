@@ -12,5 +12,6 @@
     "heaven": 0,
     "salvation": 0,
     "saint": 0,
-    "bless": 0
+    "bless": 0,
+    "Lord": 0
 }
