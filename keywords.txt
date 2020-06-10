@@ -1,6 +1,5 @@
 { 
     "catholic": 0,
-    "catholicism": 0,
     "mary": 0,
     "marian": 0,
     "god": 0,
