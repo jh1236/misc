@@ -15,5 +15,8 @@
     "bless": 0,
     "lord": 0,
     "christ": 0,
+    "death":0,
+    "saviour":0,
+    "messiah":0,
     "spaghetti":0
 }
